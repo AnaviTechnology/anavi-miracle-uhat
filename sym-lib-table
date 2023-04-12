@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "anavi-miracle-rescue")(type "Legacy")(uri "${KIPRJMOD}/anavi-miracle-uhat-rescue.lib")(options "")(descr ""))
+  (lib (name "mylibrary")(type "Legacy")(uri "${KIPRJMOD}/mylibrary.lib")(options "")(descr ""))
+  (lib (name "w_connectors")(type "Legacy")(uri "${KIPRJMOD}/excellent-collection/w_connectors.lib")(options "")(descr ""))
+  (lib (name "74LVC1G17W5-7")(type "KiCad")(uri "${KIPRJMOD}/lib/74LVC1G17W5-7/74LVC1G17W5-7.kicad_sym")(options "")(descr ""))
+)
